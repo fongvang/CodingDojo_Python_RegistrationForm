@@ -1,0 +1,42 @@
+/**{
+	outline: 1px dashed red;
+}*/
+#container{
+	width: 320px;
+    margin: 10px auto;
+    padding: 0 0 20px 10px;
+    border: 2px solid black;
+}
+#container h1{
+	text-align: center;
+}
+#container p{
+	text-align: center;
+}
+.label1{
+	width: 209px;
+}
+.label2{
+	width: 209px;
+    margin-left: 2px;
+}
+.label3{
+	width: 210px;
+    margin-left: 33px;
+}
+.label4{
+	width: 210px;
+    margin-left: 10px;
+}
+.label5{
+	width: 162px;
+}
+.label6{
+	margin: 10px 0px;
+    width: 301px;
+    height: 30px;
+    border-radius: 40px;
+    background-color: ghostwhite;
+    font-size: 20px;
+}
+
